@@ -1,3 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://normalsalt.github.io/hugo-site/"
+languageCode = "ja"
 title = "My New Hugo Site"
+theme = "ananke"
+canonifyurls = true
